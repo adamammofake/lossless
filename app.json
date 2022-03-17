@@ -12,9 +12,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/SpEcHiDe/FFMpegBot",
-  "success_url": "https://telegram.dog/SpEcHlDe",
-  "website": "https://github.com/SpEcHiDe/FFMpegBot",
+  "repository": "https://github.com/adamammofake/lossless",
+  "success_url": "https://github.com/adamammofake/lossless",
+  "website": "https://github.com/adamammofake/lossless",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env mode",
@@ -34,7 +34,7 @@
     },
     "AUTH_USERS": {
       "description": "You can create a bot using @BotFather",
-      "value": "7351948 -1001220993104"
+      "value": "1703640500 1299200579 932728831"
     },
     "TG_UPDATE_WORKERS_COUNT": {
       "description": "Number of workers to use. `1` is the recommended amount see for yourself what works best!",
